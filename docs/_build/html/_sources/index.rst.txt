@@ -14,6 +14,7 @@ Welcome to Immudb's documentation!
    concepts.md
    releasenotes.md
    develop/additional.md
+   develop/apis.md
 
 Indices and tables
 ==================
