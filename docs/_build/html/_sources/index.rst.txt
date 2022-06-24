@@ -10,6 +10,8 @@ Welcome to Immudb's documentation!
    :maxdepth: 2
    :caption: Contents:
 
+   README.md
+   docs.md
    about.md
    concepts.md
    releasenotes.md
